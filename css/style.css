@@ -42,7 +42,7 @@ h1 {
 
 h2 {
   font-size: 21px;
-  font-weight: 600;
+  font-weight: 500;
   letter-spacing: 0.3px;
   text-align: left;
   color: #669bbc;
@@ -110,7 +110,7 @@ img {
   letter-spacing: 0.1px;
   text-align: left;
   color: #003049;
-  padding: 0 20px 20px 20px;
+  padding: 10px 20px 20px 20px;
 }
 
 .container {
@@ -146,6 +146,3 @@ icons a {
   color: rgb(255, 255, 255, 0.8);
 }
 
-@media all and (max-width:700px) {
-  main {
-    grid-template-columns: 1fr;
